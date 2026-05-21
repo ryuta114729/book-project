@@ -1,8 +1,6 @@
 databases:
   - name: mysitedb
     plan: free
-    databaseName: ryutada
-    user: ryuta114729
 services:
   - type: web
     plan: free
